@@ -29,20 +29,22 @@
     <header>
         <ul>
             <li> <a href="#">Inicio</a></li>
-            <li><a href="#">Cen-Cud <span class='icon-circle-down'></span></a></li>
-            <li><a href="#">Estatutos <span class='icon-circle-down'></span></a></li>
+            <li><a href="/cen-cud">Cen-Cud <span class='icon-circle-down'></span></a></li>
+            <li><a href="/estatutos">Estatutos <span class='icon-circle-down'></span></a></li>
+            <li><a href="/resoluciones">Resoluciones<span class='icon-circle-down'></span></a></li>
             <li><a href="#">Publicaciones <span class='icon-circle-down'></span></a>
              <ul>
-                 <li><a href="#">Revistas</a></li>
+                 <li><a href="/revistas">Revistas</a></li>
              </ul>
             </li>
             <li><a href="#">Noticias</a>
               <ul>
-                  <li><a href="#">Convocatorias</a></li>
-                  <li><a href="#"> Boletines</a></li>
-                  <li><a href="#">Deportes</a></li>
+                  <li><a href="/convocatorias">Convocatorias</a></li>
+                  <li><a href="/boletines"> Boletines</a></li>
+                  <li><a href="/deportes">Deportes</a></li>
               </ul>
             </li>
+            <li><a href="#">Videoconferencias<span class='icon-circle-down'></span></a></li>
             <li> <a href="blogger">Blog</a></li>
         </ul>
     </header>

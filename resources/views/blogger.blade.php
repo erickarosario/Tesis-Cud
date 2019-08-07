@@ -145,12 +145,31 @@
               <h3>Totam, ad, quis, fugiat aliquam soluta Lorem Ipsum</h3>
             </div>
           </li>
-          <li class="wow fadeInLeft" data-wow-delay="0.8s">
+          <li class="wow fadeInLeft" data-wow-delay="0.7s">
             <figure class="img_prev"><img src="blog/img/7.jpg"></figure>
             <div class="title">
               <h3>dolorem veritatis doloremque eligendi Lorem Ipsum</h3>
             </div>
-          </li>            
+          </li>   
+
+             <li class="wow fadeInLeft" data-wow-delay="0.8s">
+            <figure class="img_prev"><img src="blog/img/5.jpg"></figure>
+            <div class="title">
+              <h3>Lorem Ipsum consectetur adipisicing elit.</h3>
+            </div>
+          </li>
+          <li class="wow fadeInLeft" data-wow-delay="0.9s">
+            <figure class="img_prev"><img src="blog/img/6.jpg"></figure>
+            <div class="title">
+              <h3>Totam, ad, quis, fugiat aliquam soluta Lorem Ipsum</h3>
+            </div>
+          </li>
+          <li class="wow fadeInLeft" data-wow-delay="0.9s">
+            <figure class="img_prev"><img src="blog/img/7.jpg"></figure>
+            <div class="title">
+              <h3>dolorem veritatis doloremque eligendi Lorem Ipsum</h3>
+            </div>
+          </li>          
         </ul>
       </aside>
     </div>  

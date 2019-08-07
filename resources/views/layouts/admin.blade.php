@@ -53,7 +53,7 @@
     <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
-      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="http://localhost:8000">
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-laugh-wink"></i>
         </div>
@@ -89,6 +89,7 @@
             <h6 class="collapse-header">Menu:</h6>
             <a class="collapse-item" href="/portada">Portada</a>
             <a class="collapse-item" href="/info">Inf.Portada</a>
+             <a class="collapse-item" href="/nuevoadm">Registro Nuevo Adm.</a>
           </div>
         </div>
       </li>
